@@ -1,37 +1,37 @@
 | Framework | Test Case | Time (μs) |
 | --- | --- | --- |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | avoidablePropagation (success) | 156218 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | broadPropagation (success) | 351160 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | deepPropagation (success) | 163121 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | diamond (success) | 205675 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | mux (success) | 309425 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | repeatedObservers (success) | 50844 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | triangle (success) | 83642 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | unstable (success) | 324424 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | molBench | 386815 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | create_signals | 58644 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_0to1 | 49752 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_1to1 | 52264 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_2to1 | 34519 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_4to1 | 16034 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_1000to1 | 38 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_1to2 | 44469 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_1to4 | 44575 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_1to8 | 42905 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_1to1000 | 37805 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | update_1to1 | 5153 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | update_2to1 | 2490 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | update_4to1 | 1191 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | update_1000to1 | 12 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | update_1to2 | 2791 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | update_1to4 | 1199 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | update_1to1000 | 378 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | cellx1000 (first: pass, last: pass) | 11087 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | cellx2500 (first: pass, last: pass) | 33405 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | cellx5000 (first: pass, last: pass) | 85664 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | 10x5 - 2 sources - read 20.0% (simple, sum: pass, count: pass) | 225122 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | 10x10 - 6 sources - dynamic - read 20.0% (dynamic, sum: pass, count: pass) | 170413 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | 1000x12 - 4 sources - dynamic (large, sum: pass, count: pass) | 283864 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | 1000x5 - 25 sources (wide dense, sum: pass, count: pass) | 377910 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | 5x500 - 3 sources (deep, sum: pass, count: pass) | 204479 |
-| [state_beacon](https://github.com/jinyus/dart_beacon) | 100x15 - 6 sources - dynamic (very dynamic, sum: pass, count: pass) | 213405 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | avoidablePropagation (success) | 156334 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | broadPropagation (success) | 354573 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | deepPropagation (success) | 164572 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | diamond (success) | 206932 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | mux (success) | 320173 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | repeatedObservers (success) | 50820 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | triangle (success) | 85080 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | unstable (success) | 325616 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | molBench | 386981 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | create_signals | 60589 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_0to1 | 52019 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_1to1 | 54100 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_2to1 | 35454 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_4to1 | 16277 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_1000to1 | 41 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_1to2 | 45447 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_1to4 | 44844 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_1to8 | 45164 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | comp_1to1000 | 38456 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | update_1to1 | 4776 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | update_2to1 | 2439 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | update_4to1 | 1243 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | update_1000to1 | 11 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | update_1to2 | 2469 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | update_1to4 | 1272 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | update_1to1000 | 376 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | cellx1000 (first: pass, last: pass) | 13902 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | cellx2500 (first: pass, last: pass) | 34804 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | cellx5000 (first: pass, last: pass) | 90263 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | 10x5 - 2 sources - read 20.0% (simple, sum: pass, count: pass) | 227274 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | 10x10 - 6 sources - dynamic - read 20.0% (dynamic, sum: pass, count: pass) | 170715 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | 1000x12 - 4 sources - dynamic (large, sum: pass, count: pass) | 285040 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | 1000x5 - 25 sources (wide dense, sum: pass, count: pass) | 380348 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | 5x500 - 3 sources (deep, sum: pass, count: pass) | 206674 |
+| [state_beacon](https://github.com/jinyus/dart_beacon) | 100x15 - 6 sources - dynamic (very dynamic, sum: pass, count: pass) | 216283 |
