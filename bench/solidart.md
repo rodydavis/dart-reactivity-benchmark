@@ -1,37 +1,37 @@
 | Framework | Test Case | Time (μs) |
 | --- | --- | --- |
-| [solidart](https://github.com/nank1ro/solidart) | avoidablePropagation (success) | 239350 |
-| [solidart](https://github.com/nank1ro/solidart) | broadPropagation (success) | 441404 |
-| [solidart](https://github.com/nank1ro/solidart) | deepPropagation (success) | 130304 |
-| [solidart](https://github.com/nank1ro/solidart) | diamond (success) | 311632 |
-| [solidart](https://github.com/nank1ro/solidart) | mux (success) | 375622 |
-| [solidart](https://github.com/nank1ro/solidart) | repeatedObservers (success) | 87847 |
-| [solidart](https://github.com/nank1ro/solidart) | triangle (success) | 97466 |
-| [solidart](https://github.com/nank1ro/solidart) | unstable (success) | 103201 |
-| [solidart](https://github.com/nank1ro/solidart) | molBench | 485341 |
-| [solidart](https://github.com/nank1ro/solidart) | create_signals | 68424 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_0to1 | 19352 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_1to1 | 29954 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_2to1 | 15303 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_4to1 | 4828 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_1000to1 | 20 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_1to2 | 33793 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_1to4 | 23591 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_1to8 | 24608 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_1to1000 | 15743 |
-| [solidart](https://github.com/nank1ro/solidart) | update_1to1 | 13943 |
-| [solidart](https://github.com/nank1ro/solidart) | update_2to1 | 7088 |
-| [solidart](https://github.com/nank1ro/solidart) | update_4to1 | 3511 |
+| [solidart](https://github.com/nank1ro/solidart) | avoidablePropagation (success) | 281329 |
+| [solidart](https://github.com/nank1ro/solidart) | broadPropagation (success) | 445400 |
+| [solidart](https://github.com/nank1ro/solidart) | deepPropagation (success) | 139055 |
+| [solidart](https://github.com/nank1ro/solidart) | diamond (success) | 304502 |
+| [solidart](https://github.com/nank1ro/solidart) | mux (success) | 387895 |
+| [solidart](https://github.com/nank1ro/solidart) | repeatedObservers (success) | 87662 |
+| [solidart](https://github.com/nank1ro/solidart) | triangle (success) | 96600 |
+| [solidart](https://github.com/nank1ro/solidart) | unstable (success) | 102584 |
+| [solidart](https://github.com/nank1ro/solidart) | molBench | 487443 |
+| [solidart](https://github.com/nank1ro/solidart) | create_signals | 110136 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_0to1 | 18349 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_1to1 | 38407 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_2to1 | 13060 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_4to1 | 11186 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_1000to1 | 17 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_1to2 | 26163 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_1to4 | 19138 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_1to8 | 22173 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_1to1000 | 13862 |
+| [solidart](https://github.com/nank1ro/solidart) | update_1to1 | 13931 |
+| [solidart](https://github.com/nank1ro/solidart) | update_2to1 | 7114 |
+| [solidart](https://github.com/nank1ro/solidart) | update_4to1 | 3475 |
 | [solidart](https://github.com/nank1ro/solidart) | update_1000to1 | 35 |
-| [solidart](https://github.com/nank1ro/solidart) | update_1to2 | 6962 |
-| [solidart](https://github.com/nank1ro/solidart) | update_1to4 | 3614 |
-| [solidart](https://github.com/nank1ro/solidart) | update_1to1000 | 160 |
-| [solidart](https://github.com/nank1ro/solidart) | cellx1000 (first: pass, last: pass) | 10884 |
-| [solidart](https://github.com/nank1ro/solidart) | cellx2500 (first: pass, last: pass) | 26895 |
-| [solidart](https://github.com/nank1ro/solidart) | cellx5000 (first: pass, last: pass) | 75852 |
-| [solidart](https://github.com/nank1ro/solidart) | 10x5 - 2 sources - read 20.0% (simple, sum: pass, count: pass) | 321406 |
-| [solidart](https://github.com/nank1ro/solidart) | 10x10 - 6 sources - dynamic - read 20.0% (dynamic, sum: pass, count: pass) | 217591 |
-| [solidart](https://github.com/nank1ro/solidart) | 1000x12 - 4 sources - dynamic (large, sum: pass, count: pass) | 453162 |
-| [solidart](https://github.com/nank1ro/solidart) | 1000x5 - 25 sources (wide dense, sum: pass, count: pass) | 808378 |
-| [solidart](https://github.com/nank1ro/solidart) | 5x500 - 3 sources (deep, sum: pass, count: pass) | 226132 |
-| [solidart](https://github.com/nank1ro/solidart) | 100x15 - 6 sources - dynamic (very dynamic, sum: pass, count: pass) | 327599 |
+| [solidart](https://github.com/nank1ro/solidart) | update_1to2 | 6994 |
+| [solidart](https://github.com/nank1ro/solidart) | update_1to4 | 3576 |
+| [solidart](https://github.com/nank1ro/solidart) | update_1to1000 | 148 |
+| [solidart](https://github.com/nank1ro/solidart) | cellx1000 (first: pass, last: pass) | 9360 |
+| [solidart](https://github.com/nank1ro/solidart) | cellx2500 (first: pass, last: pass) | 30731 |
+| [solidart](https://github.com/nank1ro/solidart) | cellx5000 (first: pass, last: pass) | 88729 |
+| [solidart](https://github.com/nank1ro/solidart) | 10x5 - 2 sources - read 20.0% (simple, sum: pass, count: pass) | 327210 |
+| [solidart](https://github.com/nank1ro/solidart) | 10x10 - 6 sources - dynamic - read 20.0% (dynamic, sum: pass, count: pass) | 218129 |
+| [solidart](https://github.com/nank1ro/solidart) | 1000x12 - 4 sources - dynamic (large, sum: pass, count: pass) | 449297 |
+| [solidart](https://github.com/nank1ro/solidart) | 1000x5 - 25 sources (wide dense, sum: pass, count: pass) | 817847 |
+| [solidart](https://github.com/nank1ro/solidart) | 5x500 - 3 sources (deep, sum: pass, count: pass) | 227185 |
+| [solidart](https://github.com/nank1ro/solidart) | 100x15 - 6 sources - dynamic (very dynamic, sum: pass, count: pass) | 325700 |
