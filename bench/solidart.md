@@ -1,37 +1,37 @@
 | Framework | Test Case | Time (μs) |
 | --- | --- | --- |
-| [solidart](https://github.com/nank1ro/solidart) | avoidablePropagation (success) | 241823 |
-| [solidart](https://github.com/nank1ro/solidart) | broadPropagation (success) | 444229 |
-| [solidart](https://github.com/nank1ro/solidart) | deepPropagation (success) | 132910 |
-| [solidart](https://github.com/nank1ro/solidart) | diamond (success) | 309792 |
-| [solidart](https://github.com/nank1ro/solidart) | mux (success) | 379719 |
-| [solidart](https://github.com/nank1ro/solidart) | repeatedObservers (success) | 91038 |
-| [solidart](https://github.com/nank1ro/solidart) | triangle (success) | 103463 |
-| [solidart](https://github.com/nank1ro/solidart) | unstable (success) | 112381 |
-| [solidart](https://github.com/nank1ro/solidart) | molBench | 371642 |
-| [solidart](https://github.com/nank1ro/solidart) | create_signals | 65717 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_0to1 | 17975 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_1to1 | 39808 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_2to1 | 13172 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_4to1 | 7635 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_1000to1 | 15 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_1to2 | 24775 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_1to4 | 16197 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_1to8 | 31110 |
-| [solidart](https://github.com/nank1ro/solidart) | comp_1to1000 | 19095 |
-| [solidart](https://github.com/nank1ro/solidart) | update_1to1 | 13897 |
-| [solidart](https://github.com/nank1ro/solidart) | update_2to1 | 6944 |
-| [solidart](https://github.com/nank1ro/solidart) | update_4to1 | 3513 |
-| [solidart](https://github.com/nank1ro/solidart) | update_1000to1 | 34 |
-| [solidart](https://github.com/nank1ro/solidart) | update_1to2 | 7018 |
-| [solidart](https://github.com/nank1ro/solidart) | update_1to4 | 3411 |
-| [solidart](https://github.com/nank1ro/solidart) | update_1to1000 | 147 |
-| [solidart](https://github.com/nank1ro/solidart) | cellx1000 (first: pass, last: pass) | 17925 |
-| [solidart](https://github.com/nank1ro/solidart) | cellx2500 (first: pass, last: pass) | 63811 |
-| [solidart](https://github.com/nank1ro/solidart) | cellx5000 (first: pass, last: pass) | 140239 |
-| [solidart](https://github.com/nank1ro/solidart) | 10x5 - 2 sources - read 20.0% (simple, sum: pass, count: pass) | 319906 |
-| [solidart](https://github.com/nank1ro/solidart) | 10x10 - 6 sources - dynamic - read 20.0% (dynamic, sum: pass, count: pass) | 236811 |
-| [solidart](https://github.com/nank1ro/solidart) | 1000x12 - 4 sources - dynamic (large, sum: pass, count: pass) | 385949 |
-| [solidart](https://github.com/nank1ro/solidart) | 1000x5 - 25 sources (wide dense, sum: pass, count: pass) | 646296 |
-| [solidart](https://github.com/nank1ro/solidart) | 5x500 - 3 sources (deep, sum: pass, count: pass) | 272408 |
-| [solidart](https://github.com/nank1ro/solidart) | 100x15 - 6 sources - dynamic (very dynamic, sum: pass, count: pass) | 296603 |
+| [solidart](https://github.com/nank1ro/solidart) | avoidablePropagation (success) | 249218 |
+| [solidart](https://github.com/nank1ro/solidart) | broadPropagation (success) | 438581 |
+| [solidart](https://github.com/nank1ro/solidart) | deepPropagation (success) | 130965 |
+| [solidart](https://github.com/nank1ro/solidart) | diamond (success) | 303532 |
+| [solidart](https://github.com/nank1ro/solidart) | mux (success) | 383212 |
+| [solidart](https://github.com/nank1ro/solidart) | repeatedObservers (success) | 87379 |
+| [solidart](https://github.com/nank1ro/solidart) | triangle (success) | 96667 |
+| [solidart](https://github.com/nank1ro/solidart) | unstable (success) | 101239 |
+| [solidart](https://github.com/nank1ro/solidart) | molBench | 485447 |
+| [solidart](https://github.com/nank1ro/solidart) | create_signals | 114621 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_0to1 | 21812 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_1to1 | 24479 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_2to1 | 13039 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_4to1 | 12201 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_1000to1 | 16 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_1to2 | 44555 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_1to4 | 22076 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_1to8 | 23185 |
+| [solidart](https://github.com/nank1ro/solidart) | comp_1to1000 | 14558 |
+| [solidart](https://github.com/nank1ro/solidart) | update_1to1 | 14012 |
+| [solidart](https://github.com/nank1ro/solidart) | update_2to1 | 7131 |
+| [solidart](https://github.com/nank1ro/solidart) | update_4to1 | 3528 |
+| [solidart](https://github.com/nank1ro/solidart) | update_1000to1 | 35 |
+| [solidart](https://github.com/nank1ro/solidart) | update_1to2 | 6955 |
+| [solidart](https://github.com/nank1ro/solidart) | update_1to4 | 3587 |
+| [solidart](https://github.com/nank1ro/solidart) | update_1to1000 | 152 |
+| [solidart](https://github.com/nank1ro/solidart) | cellx1000 (first: pass, last: pass) | 11446 |
+| [solidart](https://github.com/nank1ro/solidart) | cellx2500 (first: pass, last: pass) | 28448 |
+| [solidart](https://github.com/nank1ro/solidart) | cellx5000 (first: pass, last: pass) | 90838 |
+| [solidart](https://github.com/nank1ro/solidart) | 10x5 - 2 sources - read 20.0% (simple, sum: pass, count: pass) | 321225 |
+| [solidart](https://github.com/nank1ro/solidart) | 10x10 - 6 sources - dynamic - read 20.0% (dynamic, sum: pass, count: pass) | 221753 |
+| [solidart](https://github.com/nank1ro/solidart) | 1000x12 - 4 sources - dynamic (large, sum: pass, count: pass) | 438576 |
+| [solidart](https://github.com/nank1ro/solidart) | 1000x5 - 25 sources (wide dense, sum: pass, count: pass) | 820870 |
+| [solidart](https://github.com/nank1ro/solidart) | 5x500 - 3 sources (deep, sum: pass, count: pass) | 223733 |
+| [solidart](https://github.com/nank1ro/solidart) | 100x15 - 6 sources - dynamic (very dynamic, sum: pass, count: pass) | 330774 |
