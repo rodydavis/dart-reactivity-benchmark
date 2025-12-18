@@ -1,37 +1,37 @@
 | Framework | Test Case | Time (μs) |
 | --- | --- | --- |
-| [mobx](https://github.com/mobxjs/mobx.dart) | avoidablePropagation (success) | 2380292 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | broadPropagation (success) | 4382746 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | deepPropagation (success) | 1489695 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | diamond (success) | 2384901 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | mux (success) | 1840705 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | repeatedObservers (success) | 224407 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | triangle (success) | 753484 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | unstable (success) | 344328 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | molBench | 591536 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | create_signals | 62660 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | comp_0to1 | 15702 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | comp_1to1 | 51702 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | comp_2to1 | 24026 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | comp_4to1 | 31263 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | comp_1000to1 | 28 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | comp_1to2 | 35512 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | comp_1to4 | 23105 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | comp_1to8 | 25478 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | comp_1to1000 | 15803 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | update_1to1 | 26752 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | update_2to1 | 11168 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | update_4to1 | 6519 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | update_1000to1 | 69 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | update_1to2 | 12450 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | update_1to4 | 6859 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | update_1to1000 | 169 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | cellx1000 (first: pass, last: pass) | 76457 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | cellx2500 (first: pass, last: pass) | 274950 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | cellx5000 (first: pass, last: pass) | 563252 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | 10x5 - 2 sources - read 20.0% (simple, sum: pass, count: pass) | 1952133 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | 10x10 - 6 sources - dynamic - read 20.0% (dynamic, sum: pass, count: pass) | 1449856 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | 1000x12 - 4 sources - dynamic (large, sum: pass, count: pass) | 1786740 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | 1000x5 - 25 sources (wide dense, sum: pass, count: pass) | 3313088 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | 5x500 - 3 sources (deep, sum: pass, count: pass) | 1115765 |
-| [mobx](https://github.com/mobxjs/mobx.dart) | 100x15 - 6 sources - dynamic (very dynamic, sum: pass, count: pass) | 1635879 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | avoidablePropagation (success) | 2365793 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | broadPropagation (success) | 4455144 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | deepPropagation (success) | 1526057 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | diamond (success) | 2434777 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | mux (success) | 1858503 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | repeatedObservers (success) | 226255 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | triangle (success) | 773734 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | unstable (success) | 347183 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | molBench | 592013 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | create_signals | 86973 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | comp_0to1 | 41166 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | comp_1to1 | 31863 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | comp_2to1 | 28782 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | comp_4to1 | 20440 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | comp_1000to1 | 33 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | comp_1to2 | 36936 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | comp_1to4 | 25057 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | comp_1to8 | 27323 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | comp_1to1000 | 15929 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | update_1to1 | 27492 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | update_2to1 | 12832 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | update_4to1 | 7100 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | update_1000to1 | 68 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | update_1to2 | 13789 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | update_1to4 | 6932 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | update_1to1000 | 161 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | cellx1000 (first: pass, last: pass) | 89312 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | cellx2500 (first: pass, last: pass) | 314143 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | cellx5000 (first: pass, last: pass) | 629070 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | 10x5 - 2 sources - read 20.0% (simple, sum: pass, count: pass) | 1987031 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | 10x10 - 6 sources - dynamic - read 20.0% (dynamic, sum: pass, count: pass) | 1498578 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | 1000x12 - 4 sources - dynamic (large, sum: pass, count: pass) | 1868091 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | 1000x5 - 25 sources (wide dense, sum: pass, count: pass) | 3434490 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | 5x500 - 3 sources (deep, sum: pass, count: pass) | 1130378 |
+| [mobx](https://github.com/mobxjs/mobx.dart) | 100x15 - 6 sources - dynamic (very dynamic, sum: pass, count: pass) | 1681198 |
